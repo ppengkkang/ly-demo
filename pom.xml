@@ -9,6 +9,7 @@
     </parent>
     -->
 
+	<!-- drools update-->
 
 	<groupId>com.leya</groupId>
 	<artifactId>ly-demo</artifactId>
